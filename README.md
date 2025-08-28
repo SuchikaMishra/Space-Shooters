@@ -5,7 +5,7 @@ A classic arcade-style space shooter game built with Python and the Pygame libra
 This game has been packaged into a standalone application for macOS. You can download and play it directly from itch.io without installing anything.
 
 ➡️ Download and Play on itch.io
-
+https://suchikamishra.itch.io/
 
 📝 About the Project
 This project is a recreation of the classic "Space Invaders" game. It was developed as a personal project to practice game development fundamentals, including player movement, enemy AI, collision detection, and scoring.
